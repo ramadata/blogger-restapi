@@ -1,6 +1,10 @@
 # Blogger REST API
 As someone with a Wordpress blog, I thought it would be useful and interesting to create a REST API that manages blog posts.
 
+<iframe src="https://github.com/ryreadme/blogger-restapi/blob/master/rest-api-vid.mp4"
+frameborder="0" allowfullscreen="true">
+</iframe>
+
 ## Project Setup
 
 1. `pip3 install django djangorestframework`
