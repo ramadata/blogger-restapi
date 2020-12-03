@@ -3,13 +3,15 @@ As someone with a Wordpress blog, I thought it would be useful and interesting t
 
 ## Project Setup
 
-`pip3 install django djangorestframework`
-`python3 -m pip install --user virtualenv`
-`django-admin startproject name-of-your-project`
-`cd name-of-your-project`
-`python3 -m venv env`
-`source env/bin/activate`
-`django-admin startapp name-of-your-app`
+1. `pip3 install django djangorestframework`
+2. `python3 -m pip install --user virtualenv`
+3. `django-admin startproject name-of-your-project`
+4. `cd name-of-your-project`
+5. `python3 -m venv env`
+6. `source env/bin/activate`
+7. `django-admin startapp name-of-your-app`
+
+Happy building!
 
 ### Technologies Used
 
