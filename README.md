@@ -2,7 +2,7 @@
 As someone with a Wordpress blog, I thought it would be useful and interesting to create a REST API that manages blog posts.
 
 <img src='https://github.com/ryreadme/blogger-restapi/blob/master/rest-api.png' alt=''>
-Screen recording of REST API functionality: https://github.com/ryreadme/blogger-restapi/blob/master/rest-api-vid.mp4
+Screen recording of REST API functionality: https://github.com/ramadata/blogger-restapi/blob/master/rest-api-vid.mp4
 
 ## Project Setup
 
